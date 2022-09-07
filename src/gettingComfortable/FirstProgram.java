@@ -28,7 +28,10 @@ public class FirstProgram {
         float num2 = 3.4f;
         System.out.println(num1+num2);
 
+        int number  = 'A' - 0;
+
 //        explicit type conversion
+
         System.out.println((int)'a');
     }
 }
