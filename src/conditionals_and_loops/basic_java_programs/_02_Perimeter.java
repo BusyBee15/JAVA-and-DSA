@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //question
 // find the perimeter of circle, rectangle, rhombus, equilateral triangle, square
-public class Perimeter {
+public class _02_Perimeter {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

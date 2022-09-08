@@ -6,7 +6,7 @@ package conditionals_and_loops.basic_java_programs;
 
 import java.util.Scanner;
 
-public class Area {
+public class _01_Area {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
