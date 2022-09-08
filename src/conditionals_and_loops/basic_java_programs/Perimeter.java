@@ -2,6 +2,8 @@ package conditionals_and_loops.basic_java_programs;
 
 import java.util.Scanner;
 
+//question
+// find the perimeter of circle, rectangle, rhombus, equilateral triangle, square
 public class Perimeter {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
