@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //question
 // To find Armstrong Number between two given number.
-public class program9 {
+public class Program9 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

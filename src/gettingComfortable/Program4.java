@@ -5,7 +5,7 @@ import java.util.Scanner;
 //question4
 //Take in two numbers and an operator (+, -, *, /)
 // and calculate the value. (Use if conditions)
-public class program4 {
+public class Program4 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

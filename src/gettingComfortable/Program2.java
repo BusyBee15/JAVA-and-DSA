@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //Question
 //Take name as input and print a greeting message for that particular name.
-public class program2 {
+public class Program2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter your name");

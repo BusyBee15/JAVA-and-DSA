@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //question5
 //Take 2 numbers as input and print the largest number.
-public class program5 {
+public class Program5 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

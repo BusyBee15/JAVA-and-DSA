@@ -1,11 +1,10 @@
 package gettingComfortable;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 //question
 //To calculate Fibonacci Series up to n numbers.
-public class program7 {
+public class Program7 {
     public static void main(String[] args) {
 //        fib series : 1,1,2,3,5,8..   F(n) = F(n-1) + F(n-2), n>=3
         Scanner input = new Scanner(System.in);

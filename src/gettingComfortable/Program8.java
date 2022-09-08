@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //question
 //To find out whether the given String is Palindrome or not.
-public class program8 {
+public class Program8 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

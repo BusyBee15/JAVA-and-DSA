@@ -5,7 +5,7 @@ import java.util.Scanner;
 //question
 //Write a program to input principal, time,
 // and rate (P, T, R) from the user and find Simple Interest
-public class program3 {
+public class Program3 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 //      principal

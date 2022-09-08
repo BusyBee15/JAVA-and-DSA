@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //question 6
 //Input currency in rupees and output in USD.
-public class program6 {
+public class Program6 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
