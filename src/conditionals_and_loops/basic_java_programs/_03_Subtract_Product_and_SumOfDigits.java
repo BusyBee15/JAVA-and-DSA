@@ -24,7 +24,7 @@ public class _03_Subtract_Product_and_SumOfDigits {
     private static int product(int n){
         int res=1;
         while(n>0) {
-//          first n%10 should get computed 
+//          first n%10 should get computed
             res = res * (n%10);
             n/=10;
 
