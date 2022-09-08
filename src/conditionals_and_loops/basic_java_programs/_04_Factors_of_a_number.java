@@ -7,7 +7,7 @@ public class _04_Factors_of_a_number {
         Scanner input = new Scanner(System.in);
 
         int n = input.nextInt();
-//brute force - O(n)
+//        brute force - O(n)
 //        better approach - O(n/2)
 //        time complexity = O(root(n))
         for(int i=1; i*i<=n; i++){
