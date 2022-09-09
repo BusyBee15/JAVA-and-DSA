@@ -20,5 +20,30 @@ public class Experimenting_things {
         System.out.println(Integer.valueOf(s2)); //converts s2 to Integer object
         System.out.println(Integer.parseInt(s2)); //converts s2 to int
 
+        Integer a =10, b=20;
+        System.out.println(a+", "+b);
+        swapOb(a, b);
+        System.out.println(a+", "+b);
+
+        Integer a1 =10, b1=20;
+        System.out.println(a1+", "+b1);
+        swap(a1, b1);
+        System.out.println(a1+", "+b1);
+
+
     }
+
+    private static void swapOb(Integer a, Integer b){
+        Integer temp = a;
+        a = b;
+        b = temp;
+    }
+
+    private static void swap(int a, int b){
+        int temp = a;
+        a = b;
+        b = temp;
+    }
+
+
 }

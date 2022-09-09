@@ -15,7 +15,7 @@ public class _05_Leap_year_or_not {
 //        year is divisible by 400 , leap year
 //        year is divisible by 100 and 400 , leap year
 //        divisible by 100 but not by 400, not a leap year
-        
+
         if((year%400)==0){
             System.out.println("leap year");
         }else if((year%100)==0) System.out.println("not a leap year");
