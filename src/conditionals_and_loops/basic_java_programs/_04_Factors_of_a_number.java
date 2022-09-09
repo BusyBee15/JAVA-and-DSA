@@ -10,6 +10,7 @@ public class _04_Factors_of_a_number {
 //        brute force - O(n)
 //        better approach - O(n/2)
 //        time complexity = O(root(n))
+
         for(int i=1; i*i<=n; i++){
             if((n%i)==0){
                 int temp = n/i;
